@@ -1,0 +1,5 @@
+project: num-integer
+target: num-integer
+
+cmds:
+  - cmd: /functions
